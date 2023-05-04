@@ -1,0 +1,32 @@
+body{
+    
+height: 538px;
+width: 942px;
+left: -375px;
+top: -212px;
+border-radius: 5px;
+background-color: rgba(217, 193, 193, 0.73);
+
+}
+div.foto{
+
+    height: 428px;
+    width: 334px;
+    left: 48px;
+    top: 91px;
+    border-radius: 10px;
+    background-color: rgb(228, 228, 225);
+
+}
+div.form{
+
+    height: 238px;
+    width: 452px;
+    left: 439px;
+    top: 174px;
+    border-radius: 10px;
+    background-color: #CDC4C4;
+
+}
+
+    
